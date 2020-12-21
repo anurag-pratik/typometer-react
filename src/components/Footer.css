@@ -1,0 +1,21 @@
+.Footer{
+    position: relative;
+    background-color: #131313;
+    height: 8%;
+    top: 2.5vh;
+    text-align: center;
+    margin: 0 auto ;
+    width: 25%;
+    align-items: center;
+    box-shadow: 1px -1px 10px 15px #131313;
+}
+
+.footerText{
+    position: relative;
+    text-align: center;
+    color: #9448d6;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 95%;
+    margin-top: 0.8vh;
+}
+

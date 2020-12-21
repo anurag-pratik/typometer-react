@@ -1,0 +1,25 @@
+.GameBox{
+    position: relative;
+    background-color: #131313;
+    width: 85%;
+    align-items: center;
+    height: 69%;
+    top: 6%;
+    text-align: center;
+    box-shadow: 0 10px 25px -6px #131313;
+    margin: auto;
+    box-shadow: 5px 5px 15px 5px #131313;
+}
+
+.restartBtn{
+    position: relative;
+    top: 1.5vh;
+}
+
+
+@media only screen and (max-width: 900px){
+    [class*="restartBtn"] {
+        position: relative;
+        top: 1vh;
+      }    
+}

@@ -1,0 +1,26 @@
+.InputTextBox {
+  background-color: #212121;
+  resize: none;
+  width: 85%;
+  height: 70%;
+  overflow: hidden;
+  max-width: 82%;
+  font-size: 1.1rem;
+  font-family: "Quicksand", sans-serif;
+  color: rgba(255, 255, 255, 0.897);
+  padding: 1.2%;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.InputTextDiv {
+  margin: 7vh auto;
+  height: 48%;
+}
+
+@media only screen and (max-width: 900px) {
+  [class*="InputTextBox"] {
+    font-size: 1.8vh;
+  }
+}

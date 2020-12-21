@@ -1,0 +1,17 @@
+.TopBar{
+    background-color: #131313;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    box-shadow: 0 10px 25px -6px #131313;
+    height: 10%;
+}
+
+.titleText{
+    position: relative;
+    top: 12%;
+    font-family: 'Lobster', cursive;
+    color: #9f32ff;
+    font-size: 5vh;
+}
+

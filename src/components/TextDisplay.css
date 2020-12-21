@@ -1,0 +1,21 @@
+.textDisplay{
+    background-color:rgb(12, 12, 12);
+    color: rgb(206, 204, 204);
+    text-align: center;
+    width: 82%;
+    height: 30%;
+    font-family: 'Quicksand', sans-serif;
+    position: relative;
+    font-size: 2.2vh;
+    top: 6%;
+    border-style: ridge;
+    border-color: #212121;
+    padding: 1% 1.6%;
+    margin: 0 auto;
+}
+
+@media only screen and (max-width: 900px){
+    [class*="textDisplay"] {
+        font-size: 1.5vh;
+      }
+}
