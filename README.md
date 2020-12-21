@@ -1,7 +1,7 @@
 # Typometer⏱️
 
 This is a simple web-app built using React JS which tests your typing speed.
-You can use it [here](https://anurag-pratik.github.io/typometer/). :relaxed:
+You can use it [here](https://anurag-pratik.github.io/typometer/){:target="_blank" rel="noopener"}. :relaxed:
 
 ![alt demo image](https://i.ibb.co/TrbjmfP/typometer.jpg)
 
